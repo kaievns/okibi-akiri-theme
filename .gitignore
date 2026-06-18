@@ -1,0 +1,9 @@
+# Build tooling — kept locally to regenerate index.html, not part of the published site.
+# Run `python3 build.py` after editing the design source to rebuild index.html.
+build.py
+Okibi Akari.dc.html
+
+# Local preview / editor / OS cruft
+_preview-*.html
+.DS_Store
+.claude
